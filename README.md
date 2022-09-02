@@ -26,4 +26,4 @@
 
 ## Demo Video
 
-![Demo](https://user-images.githubusercontent.com/94409173/188242211-b5aa669e-46b9-4d75-bd2c-307bfe590c26.gif)
+![Demo](https://user-images.githubusercontent.com/94409173/188242694-e970f7a2-bf56-4e53-921d-65322dad7ef4.gif)
