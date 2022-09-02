@@ -23,3 +23,7 @@
 * API call for listing of people ids: GET: /list
 * API call for getting Detailed Profile: GET: /get/{id} where {id} is the id of the profile you
   get back from the list.
+
+## Demo Video
+
+![Demo](https://user-images.githubusercontent.com/94409173/188242211-b5aa669e-46b9-4d75-bd2c-307bfe590c26.gif)
