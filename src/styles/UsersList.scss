@@ -1,0 +1,25 @@
+
+.UsersList {
+  .UsersList-Header {
+    margin: 10px;
+    text-align: center;
+  }
+
+  .UsersList-Content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 18px;
+
+    ul {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      gap: 10px;
+      list-style-type: decimal;
+      cursor: pointer;
+    }
+  }
+}

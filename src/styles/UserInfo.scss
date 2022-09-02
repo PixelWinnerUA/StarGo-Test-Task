@@ -1,0 +1,46 @@
+.UserInfo, {
+  display: none;
+}
+
+.UserInfo.active {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  .UserInfo-Content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-width: 200px;
+    min-height: 200px;
+    width: auto;
+    height: auto;
+    background-color: white;
+    font-size: 20px;
+    padding: 20px;
+    gap: 20px;
+    border: 1px black solid;
+    border-radius: 5px;
+
+    .UserInfo-Text {
+      display: flex;
+      align-items: start;
+      justify-content: center;
+      flex-direction: column;
+    }
+
+    .Exit-Button {
+      cursor: pointer;
+      font-weight: bolder;
+    }
+  }
+}
